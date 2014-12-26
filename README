@@ -1,0 +1,1 @@
+Simple arithmetic expression parser, which support +\-\*\/ operations and uses RabbitMq for evaluate parts of expression.
